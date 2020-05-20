@@ -1,0 +1,30 @@
+button{
+    background-color: #fff;
+    color: #007bff;
+    border-radius: 3px!important;
+    border: 1.5px solid #007bff;
+    padding: 8px 20px;
+    font-weight: 500;
+    margin-top: 5%!important;
+}
+
+button:hover{
+    transform: scale(1.05);
+}
+
+/* .selectPan{
+
+} */
+
+.uploadSuccessText{
+    margin-top: 1rem;
+    color: #28a745!important;
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+
+.uploadBtn{
+    background-color: #007bff;
+    color: #fff;
+    margin-left: 10px;
+}
